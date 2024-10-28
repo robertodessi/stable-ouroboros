@@ -2,8 +2,8 @@ ftfy
 regex
 tqdm
 transformers==4.17.0
-timm
+timm==0.4.12
 fairscale
 requests
 git+https://github.com/openai/CLIP.git@main#egg=clip
-git+https://github.com/pharmapsychotic/BLIP.git@main#egg=blip
+git+https://github.com/pharmapsychotic/BLIP.git@main#egg=blip-ci
